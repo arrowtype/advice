@@ -15,6 +15,7 @@
 - [How to Get Value from Wireframes, by Dustin Senos](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960)
 - [The 8-Point Grid](https://spec.fm/specifics/8-pt-grid)
 - [Naming things (good ideas of file naming)](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
+- [The Tail End, Wait But Why](https://waitbutwhy.com/2015/12/the-tail-end.html)
 
 ## Books
 
