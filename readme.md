@@ -1,6 +1,6 @@
 # Free Advice
 
-*The following are links that go along with a lecture I have given to a few different college classes.*
+*The following are links that go along with a lecture I have given to a few different college classes. It is not a comprehensive list of all things I would recommend. Feel free to ask me about other things via Email/Twitter!*
 
 ## Things I'm working on
 
