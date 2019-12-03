@@ -48,6 +48,14 @@
 - [Herb Lubalin Lecture Series](http://coopertype.org/lectures)
 - [Several great articles on computing advice for students/anyone](https://f.briatte.org/teaching/computing/)
 
+## 5 computer productivity tips
+
+1. Turn up mouse & key repeat speed 
+2. Use Video Speed Controller
+3. Learn text selection hotkeys:  shift ← / shift →, plus opt / cmd
+4. Use a window manager like Divvy & a clipboard manager like Paste
+5. If you think, “there must be a better way to do X,” there is. Google it!
+
 ## plz follow me
 
 - [Arrow Type newsletter](https://arrowtype.com)
